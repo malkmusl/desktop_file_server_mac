@@ -1,6 +1,6 @@
 # Desktop File Server Mac
 
-[![Malkmusl's Proprietary License Agreement v1.0](https://img.shields.io/badge/License-Malkmusl's%20Proprietary%20License%20Agreement%20v1.0-red.svg?style=for-the-badge)](LICENSE.md)
+[![Malkmusl's Proprietary License Agreement v1.1](https://img.shields.io/badge/License-Malkmusl's%20Proprietary%20License%20Agreement%20v1.1-red.svg?style=for-the-badge)](LICENSE.md)
 
 ![Languages Badge](https://img.shields.io/badge/Languages-818080?style=for-the-badge)  ![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
