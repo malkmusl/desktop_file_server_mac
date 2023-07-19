@@ -2,7 +2,7 @@
 
 [![Malkmusl's Proprietary License Agreement v1.0](https://img.shields.io/badge/License-Malkmusl's%20Proprietary%20License%20Agreement%20v1.0-red.svg?style=for-the-badge)](LICENSE.md)
 
-![Languages Badge](https://img.shields.io/badge/Languages-818080?style=for-the-badge)  ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  ![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Languages Badge](https://img.shields.io/badge/Languages-818080?style=for-the-badge)  ![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 [![Buy me a coffee on Ko-fi](https://img.shields.io/badge/Buy%20me%20a%20coffee-Ko--fi-%23FF5E5B.svg?style=for-the-badge)](https://ko-fi.com/your_username)  [![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-orange.svg?style=for-the-badge)](https://www.patreon.com/your_username)
 
