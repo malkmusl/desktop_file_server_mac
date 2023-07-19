@@ -1,7 +1,7 @@
 use std::io::prelude::*;
 use std::net::TcpStream;
 use std::fs::{read_dir, File};
-use std::path::{Path};
+use std::path::Path;
 use serde::{Deserialize, Serialize};
 use config::{Config, File as ConfigFile};
 use std::process::Command;
@@ -180,7 +180,9 @@ fn send_runnable_programs(stream: &mut TcpStream, runnable_programs: Vec<(String
     }
 }
 
+/// .
 // Function for testing on a Linux host
+#[warn(dead_code.)]
 fn test_on_linux() {
     let config_path = "config.toml";
     create_config_if_not_exist(config_path);
