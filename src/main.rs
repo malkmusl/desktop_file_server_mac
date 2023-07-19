@@ -1,7 +1,7 @@
 use std::io::prelude::*;
 use std::net::TcpStream;
 use std::fs::{read_dir, File};
-use std::path::{Path, PathBuf};
+use std::path::{Path};
 use serde::{Deserialize, Serialize};
 use config::{Config, File as ConfigFile};
 use std::process::Command;
