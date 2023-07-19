@@ -182,7 +182,6 @@ fn send_runnable_programs(stream: &mut TcpStream, runnable_programs: Vec<(String
 
 /// .
 // Function for testing on a Linux host
-#[warn(dead_code.)]
 fn test_on_linux() {
     let config_path = "config.toml";
     create_config_if_not_exist(config_path);
