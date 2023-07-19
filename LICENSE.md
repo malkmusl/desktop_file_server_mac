@@ -53,7 +53,8 @@ Please carefully review the following Proprietary License Clause to understand t
 
 ### <p align="center">Revision History</p> 
 
-- **Revision 1**: Initial release for [Project Name], [Date] 
+- **Revision 1**: Initial release for desktop_file_server_mac
+, 20.07.23 
 
 ---
 
